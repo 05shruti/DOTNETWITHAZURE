@@ -1,0 +1,4 @@
+C:\Users\Shruti\source\repos\Day 5 Morning 1.5\obj\Debug\netcoreapp3.1\Day 5 Morning 1.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shruti\source\repos\Day 5 Morning 1.5\obj\Debug\netcoreapp3.1\Day 5 Morning 1.5.AssemblyInfoInputs.cache
+C:\Users\Shruti\source\repos\Day 5 Morning 1.5\obj\Debug\netcoreapp3.1\Day 5 Morning 1.5.AssemblyInfo.cs
+C:\Users\Shruti\source\repos\Day 5 Morning 1.5\obj\Debug\netcoreapp3.1\Day 5 Morning 1.5.csproj.CoreCompileInputs.cache

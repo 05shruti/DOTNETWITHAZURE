@@ -1,0 +1,14 @@
+C:\Users\Shruti\source\repos\Day 5 morning\Day 5 morning\bin\Debug\netcoreapp3.1\Day 5 morning.exe
+C:\Users\Shruti\source\repos\Day 5 morning\Day 5 morning\bin\Debug\netcoreapp3.1\Day 5 morning.deps.json
+C:\Users\Shruti\source\repos\Day 5 morning\Day 5 morning\bin\Debug\netcoreapp3.1\Day 5 morning.runtimeconfig.json
+C:\Users\Shruti\source\repos\Day 5 morning\Day 5 morning\bin\Debug\netcoreapp3.1\Day 5 morning.runtimeconfig.dev.json
+C:\Users\Shruti\source\repos\Day 5 morning\Day 5 morning\bin\Debug\netcoreapp3.1\Day 5 morning.dll
+C:\Users\Shruti\source\repos\Day 5 morning\Day 5 morning\bin\Debug\netcoreapp3.1\Day 5 morning.pdb
+C:\Users\Shruti\source\repos\Day 5 morning\Day 5 morning\obj\Debug\netcoreapp3.1\Day 5 morning.csproj.AssemblyReference.cache
+C:\Users\Shruti\source\repos\Day 5 morning\Day 5 morning\obj\Debug\netcoreapp3.1\Day 5 morning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shruti\source\repos\Day 5 morning\Day 5 morning\obj\Debug\netcoreapp3.1\Day 5 morning.AssemblyInfoInputs.cache
+C:\Users\Shruti\source\repos\Day 5 morning\Day 5 morning\obj\Debug\netcoreapp3.1\Day 5 morning.AssemblyInfo.cs
+C:\Users\Shruti\source\repos\Day 5 morning\Day 5 morning\obj\Debug\netcoreapp3.1\Day 5 morning.csproj.CoreCompileInputs.cache
+C:\Users\Shruti\source\repos\Day 5 morning\Day 5 morning\obj\Debug\netcoreapp3.1\Day 5 morning.dll
+C:\Users\Shruti\source\repos\Day 5 morning\Day 5 morning\obj\Debug\netcoreapp3.1\Day 5 morning.pdb
+C:\Users\Shruti\source\repos\Day 5 morning\Day 5 morning\obj\Debug\netcoreapp3.1\Day 5 morning.genruntimeconfig.cache
