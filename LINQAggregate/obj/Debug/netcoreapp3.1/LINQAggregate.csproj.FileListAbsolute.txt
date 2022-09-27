@@ -1,0 +1,14 @@
+C:\Users\Shruti\source\repos\LINQAggregate\LINQAggregate\bin\Debug\netcoreapp3.1\LINQAggregate.exe
+C:\Users\Shruti\source\repos\LINQAggregate\LINQAggregate\bin\Debug\netcoreapp3.1\LINQAggregate.deps.json
+C:\Users\Shruti\source\repos\LINQAggregate\LINQAggregate\bin\Debug\netcoreapp3.1\LINQAggregate.runtimeconfig.json
+C:\Users\Shruti\source\repos\LINQAggregate\LINQAggregate\bin\Debug\netcoreapp3.1\LINQAggregate.runtimeconfig.dev.json
+C:\Users\Shruti\source\repos\LINQAggregate\LINQAggregate\bin\Debug\netcoreapp3.1\LINQAggregate.dll
+C:\Users\Shruti\source\repos\LINQAggregate\LINQAggregate\bin\Debug\netcoreapp3.1\LINQAggregate.pdb
+C:\Users\Shruti\source\repos\LINQAggregate\LINQAggregate\obj\Debug\netcoreapp3.1\LINQAggregate.csproj.AssemblyReference.cache
+C:\Users\Shruti\source\repos\LINQAggregate\LINQAggregate\obj\Debug\netcoreapp3.1\LINQAggregate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shruti\source\repos\LINQAggregate\LINQAggregate\obj\Debug\netcoreapp3.1\LINQAggregate.AssemblyInfoInputs.cache
+C:\Users\Shruti\source\repos\LINQAggregate\LINQAggregate\obj\Debug\netcoreapp3.1\LINQAggregate.AssemblyInfo.cs
+C:\Users\Shruti\source\repos\LINQAggregate\LINQAggregate\obj\Debug\netcoreapp3.1\LINQAggregate.csproj.CoreCompileInputs.cache
+C:\Users\Shruti\source\repos\LINQAggregate\LINQAggregate\obj\Debug\netcoreapp3.1\LINQAggregate.dll
+C:\Users\Shruti\source\repos\LINQAggregate\LINQAggregate\obj\Debug\netcoreapp3.1\LINQAggregate.pdb
+C:\Users\Shruti\source\repos\LINQAggregate\LINQAggregate\obj\Debug\netcoreapp3.1\LINQAggregate.genruntimeconfig.cache

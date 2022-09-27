@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LINQAggregate/1.0.0": {
+        "runtime": {
+          "LINQAggregate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQAggregate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
