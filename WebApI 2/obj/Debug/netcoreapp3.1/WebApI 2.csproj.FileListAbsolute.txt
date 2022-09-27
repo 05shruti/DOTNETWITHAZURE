@@ -1,0 +1,69 @@
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\WebApI 2.exe
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\WebApI 2.deps.json
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\WebApI 2.runtimeconfig.json
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\WebApI 2.runtimeconfig.dev.json
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\WebApI 2.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\WebApI 2.pdb
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\obj\Debug\netcoreapp3.1\WebApI 2.csproj.AssemblyReference.cache
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\obj\Debug\netcoreapp3.1\WebApI 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\obj\Debug\netcoreapp3.1\WebApI 2.AssemblyInfoInputs.cache
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\obj\Debug\netcoreapp3.1\WebApI 2.AssemblyInfo.cs
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\obj\Debug\netcoreapp3.1\WebApI 2.csproj.CoreCompileInputs.cache
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\obj\Debug\netcoreapp3.1\WebApI 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\obj\Debug\netcoreapp3.1\staticwebassets\WebApI 2.StaticWebAssets.Manifest.cache
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\obj\Debug\netcoreapp3.1\staticwebassets\WebApI 2.StaticWebAssets.xml
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApI 2.styles.css
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\obj\Debug\netcoreapp3.1\WebApI 2.RazorTargetAssemblyInfo.cache
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\obj\Debug\netcoreapp3.1\WebApI 2.csproj.CopyComplete
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\obj\Debug\netcoreapp3.1\WebApI 2.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\obj\Debug\netcoreapp3.1\WebApI 2.pdb
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\obj\Debug\netcoreapp3.1\WebApI 2.genruntimeconfig.cache
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Shruti\source\repos\WebApI 2\WebApI 2\obj\Debug\netcoreapp3.1\WebApI 2.MvcApplicationPartsAssemblyInfo.cs
