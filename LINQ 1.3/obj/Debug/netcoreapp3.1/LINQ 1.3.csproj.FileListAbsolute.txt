@@ -1,0 +1,5 @@
+C:\Users\Shruti\source\repos\LINQ 1.3\LINQ 1.3\obj\Debug\netcoreapp3.1\LINQ 1.3.csproj.AssemblyReference.cache
+C:\Users\Shruti\source\repos\LINQ 1.3\LINQ 1.3\obj\Debug\netcoreapp3.1\LINQ 1.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shruti\source\repos\LINQ 1.3\LINQ 1.3\obj\Debug\netcoreapp3.1\LINQ 1.3.AssemblyInfoInputs.cache
+C:\Users\Shruti\source\repos\LINQ 1.3\LINQ 1.3\obj\Debug\netcoreapp3.1\LINQ 1.3.AssemblyInfo.cs
+C:\Users\Shruti\source\repos\LINQ 1.3\LINQ 1.3\obj\Debug\netcoreapp3.1\LINQ 1.3.csproj.CoreCompileInputs.cache
