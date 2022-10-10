@@ -1,0 +1,68 @@
+<table border="2">
+  <thead>
+    <tr>
+      <th>Student ID</th>
+      <th> Name</th>
+      <th>Date of birth</th>
+      <th>Gender</th>
+      <th>CourseFees</th>
+
+
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor='let student of students'>
+    <td> {{student.ID }}</td>
+    <td> {{student.Name|  myTitle:student.Gender}}</td>
+    <td> {{student.DOB| date: 'M/dd/yy'}}</td>
+    <td> {{student.Gender| titlecase}}</td>
+    <td> {{student.CorseFee| currency: 'INR' :true}}</td>
+
+    </tr>
+  </tbody>
+  <table>
+    <thead>
+      <tr>
+        <th> Parameterized Pipes Demo</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <p>Date Pipe :{{today | date}}</p>
+      <p>Full Date: {{today | date: 'fullDate'}}</p>
+      <p> Short Date: {{ today | date: 'shortDate'}}</p>
+      <p>Date (dd/mm/yyyy): {{today |date:'dd/mm/yyyy'}}</p>
+      <p>Time : {{today | date:'h:mm a z '}}</p>
+   
+   
+    <p> Currency Pipes in Angular</p>
+    
+
+</tr>
+<div>
+  <p>
+    Currency USD in Symbol :{{salary | currency : 'USD' : true}}
+  </p>
+  <p> Currency USD in Symbol :{{salary | currency :'USD' :false: '1.3-3'}}with fractional Digit</p>
+</div>
+
+    </tbody>
+  </table>
+    <div class ="col">
+      <h2> Routing Angular example</h2>
+      <button class= "GetStudent()"></button>
+      <button (click)="GetStudentDetails()"></button>
+      <button (click)="GetLogin()"></button>
+
+      <a routerLink="studetlink">Student</a>
+      <a routerLink="studentdetailslink"> StudentDetails</a>
+      <a routerLink="loginlink"> StudentDetails</a>
+
+
+ <div>
+<router-outlet></router-outlet>
+</div>
+
+
+
+

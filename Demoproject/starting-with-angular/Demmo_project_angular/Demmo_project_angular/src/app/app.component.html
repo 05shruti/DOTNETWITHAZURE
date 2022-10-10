@@ -1,0 +1,42 @@
+<app-header></app-header>
+  <div class=" container">
+    <div class="row">
+      <div class ="col-md-7">
+        <h2>Create User</h2>
+        <form [formGroup] = "userForm"(ngSubmit)="onSubmit"()>
+        <label for=""></label>
+        <input type="text" name="" id="" class="form-control" placeholder="" aria-describedby="helpId">
+        <small id="helpId" class="text-muted">Help text</small>
+     
+        <div class ="row">
+          <div class ="form-group col-md-7">
+<label for="exampleInputEmail">First Name</label>
+       <input type="text" class ="form1"id="exampleInputEmail" aria-describedby="exampleInputEmail" placeholder="First Name">
+</div>
+<div class ="form-group col-md-7">
+<label for="exampleInputEmail">Last Name</label>
+       <input type="text" class ="form2"id="exampleInputEmail" aria-describedby="exampleInputEmail" placeholder="Last Name">
+</div>
+<div class ="form-group col-md-12">
+<label for="exampleInputEmail">Email</label>
+       <input type="text" class ="form3"id="exampleInputEmail" aria-describedby="exampleInputEmail" placeholder="Email">
+</div>
+</div>
+ <button class ="button type" [disabled]="!userForm.valid"class="button"> SUBMIT</button> 
+   <!--<button type="button">Click Me!</button> -->
+      </form>
+      </div>
+      <div class = "row align-items-end">
+      <app-display-board></app-display-board>
+    </div>
+    
+  </div>
+      </div>
+      <div class= "mrgnbtn">
+      <app-users *ngIf=" users.length !==0" [users]="users">
+
+      </app-users>
+    </div>
+  </div>
+
+

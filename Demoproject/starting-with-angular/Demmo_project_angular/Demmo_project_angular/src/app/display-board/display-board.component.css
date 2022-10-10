@@ -1,0 +1,36 @@
+.display{
+
+    background-color:  rgb(215, 189, 226);
+    width: 10%;
+position: relative;
+    nav-down: 70%;
+    nav-right:50%;
+    float: right;
+    font-weight:bold;
+
+    padding-right: 550px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    text-align: center;
+    font-size: 200%;
+    position: relative;
+    top: 10px;
+  }
+  .buttons{
+    background-color: #8e4caf; 
+  color: rgb(21, 20, 20);
+  padding: 15px 12px;
+  text-align: center;
+  border-radius: 6px;
+  border: 7px solid #7300ff;
+  text-decoration: none;
+  display: inline-block;
+  transition-duration: 0.4s;
+  font-size: 16px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  }
+
+  .buttons:hover {
+    background-color: #4c91af; 
+    color: white;
+  }
