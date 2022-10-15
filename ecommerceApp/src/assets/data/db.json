@@ -1,0 +1,119 @@
+{
+  "product": [
+    {
+      "id": 5
+    },
+    {
+      "id": 8,
+      "categoryId": 6,
+      "productName": "Kurti, Suits & Lehnga",
+      "description": "Stiched, Unstiched, heavy suits, ethenic suits, cotton suits",
+      "rating": 2,
+      "price": 200,
+      "productImg": "http://localhost:4200/assets/8.jpg",
+      "isAvailable": true,
+      "color": "red",
+      "reviews": 10
+    },
+    {
+      "id": 11,
+      "categoryId": "7",
+      "productName": "Home-Textiles",
+      "description": " Bedsheets ,Pillows, Cushions ",
+      "rating": "5",
+      "price": "100",
+      "productImg": "",
+      "isAvailable": 1,
+      "color": "",
+      "reviews": "102"
+    },
+    {
+      "id": 11,
+      "categoryId": "8",
+      "productName": " Accessories",
+      "description": " Hair clips ,Scrunchies, hairband,, Cushions ",
+      "rating": "5",
+      "price": "100",
+      "productImg": "",
+      "isAvailable": 1,
+      "color": "",
+      "reviews": "102"
+    },
+    {
+      "id": 11,
+      "categoryId": "9",
+      "productName": " Healthcare",
+      "description": "   ",
+      "rating": "5",
+      "price": "100",
+      "productImg": "",
+      "isAvailable": 1,
+      "color": "",
+      "reviews": "102"
+    },
+    {
+      "id": 11,
+      "categoryId": "10",
+      "productName": " Home Decor",
+      "description": " Hair clips ,Scrunchies, hairband,, Cushions ",
+      "rating": "5",
+      "price": "100",
+      "productImg": "",
+      "isAvailable": 1,
+      "color": "",
+      "reviews": "102"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Men"
+    },
+    {
+      "id": 2,
+      "categoryName": "Womens Western wear"
+    },
+    {
+      "id": 3,
+      "categoryName": "Kids"
+    },
+    {
+      "id": 4,
+      "categoryName": "Beauty"
+    },
+    {
+      "id": 5,
+      "categoryName": "Jwellary"
+    },
+    {
+      "id": 6,
+      "categoryName": "Kurti, Suits & Lehnga"
+    },
+    {
+      "id": 7,
+      "categoryName": "Home-Textiles"
+    },
+    {
+      "id": 8,
+      "categoryName": "Accessories"
+    },
+    {
+      "id": 9,
+      "categoryName": "Healthcare"
+    },
+    {
+      "id": 10,
+      "categoryName": "Home Decor"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
